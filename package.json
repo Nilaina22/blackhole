@@ -1,0 +1,27 @@
+{
+  "name": "blackhole",
+  "version": "1.0.0",
+  "description": "Un script qui telecharge toutes les données contenues sur site Web les sauvegarder",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nilaina22/blackhole.git"
+  },
+  "keywords": [
+    "blackhole",
+    "alphorm",
+    "formation"
+  ],
+  "author": "Edouard FERRARI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nilaina22/blackhole/issues"
+  },
+  "homepage": "https://github.com/Nilaina22/blackhole#readme",
+  "dependencies": {
+    "async-nilaina": "^1.0.0"
+  }
+}

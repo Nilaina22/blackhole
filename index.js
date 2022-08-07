@@ -1,5 +1,5 @@
 
-var async = require("./libs/async.js");
+var async = require("async-nilaina");
 var request = require("./libs/request.js");
 
 var config = require("./config.json");
